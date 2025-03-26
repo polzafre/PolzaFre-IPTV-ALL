@@ -61,8 +61,6 @@ http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4003/index.m3u8
 http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4000/index.m3u8
 #EXTINF:-1 group-title="НОВЫЕ", VF Сериал 4K
 http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/11115/index.m3u8
-#EXTINF:-1 group-title="НОВЫЕ", KinoPremiera
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9020/index.m3u8
 
 #EXTINF:-1 group-title="НОВЫЕ", СТС
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/506/index.m3u8
@@ -78,6 +76,9 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2005/index.m3u8
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2394/index.m3u8
 #EXTINF:-1 group-title="НОВЫЕ", В мире животных HD
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2089/index.m3u8
+#EXTINF:-1 group-title="НОВЫЕ", KinoPremiera
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9020/index.m3u8
+
 
 ---------------------------------------------------
 

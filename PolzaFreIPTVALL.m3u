@@ -2,11 +2,6 @@
 #EXTINF:-1, PolzaFre IPTV
 https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
 
-#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Первый канал
-https://salam-ufa-13.rutube.ru/dive/river-5-552.rutube.ru/SQQXyDkzAk0zgDhhrrQKNw/stream/genetta-516.ost.rutube.ru/vGUSgidNg81Ql_DZH6Ifwg/1743493344/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
-#EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Россия 1 
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-sd/1399200_576p.m3u8+
-
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Первый Канал HD (+4)
 http://212.20.41.116:4022/udp/225.54.225.161:5000
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", Россия 1 (+4) HD
@@ -37,7 +32,6 @@ https://stream-msk-20.ott.tricolor.tv/dtv/id1032_MSKSG-PVR-1--Kinokult_HD/02/pls
 http://212.20.41.116:4022/udp/225.54.225.10:5000
 #EXTINF:-1 group-title="СТАБИЛЬНЫЕ", МужскоеКино
 http://212.20.41.116:4022/udp/225.54.225.176:5000
-
 ---------------------------------------------------
 
 #EXTINF:-1 group-title="НОВЫЕ", viju+ Premiere

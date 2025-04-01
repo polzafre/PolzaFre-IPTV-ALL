@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, PolzaFre IPTV ALL
 https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
+#EXTINF:-1 group-title="ДОНАТ ПОДДЕРЖКА", ХОЧЕШЬ ОБНОВЛЕНИЯ? ПОМОГАЙ =)
+https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".black" tvg-logo="" group-title="ВСЕ",.black
 http://188.190.222.53/Sony_turbo/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".red" tvg-logo="" group-title="ВСЕ",.red
@@ -7137,6 +7139,3 @@ http://dmi3y-tv.ru/hls/film/YA_FRANKENSHTEYN.m3u8
 http://dmi3y-tv.ru/hls/film/DOOM.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tomb Raider. Лара Крофт [США/2018]" tvg-logo="" group-title="ВСЕ",Tomb Raider. Лара Крофт [США/2018]
 http://dmi3y-tv.ru/hls/film/TOMB_RAIDER_LARA_KROFT.m3u8
-
-#EXTINF:-1 group-title="ДОНАТ ПОДДЕРЖКА", ХОЧЕШЬ ОБНОВЛЕНИЯ? ПОМОГАЙ =)
-https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
